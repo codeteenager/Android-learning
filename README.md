@@ -12,3 +12,6 @@
 
 ### 性能优化
 [几乎是史上最全最实用的Android性能全面分析与优化方案研究](https://juejin.im/post/5ad2bfaf51882555867fdd09?utm_source=gold_browser_extension)
+
+## 学习博客
+[胡凯的博客](http://hukai.me/)
