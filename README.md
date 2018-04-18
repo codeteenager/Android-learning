@@ -8,3 +8,7 @@
 * [Builder设计模式](DesignPatterns/Builder模式.md)
 * [原型设计模式](DesignPatterns/原型模式.md)
 
+## Android
+
+### 性能优化
+[https://juejin.im/post/5ad2bfaf51882555867fdd09?utm_source=gold_browser_extension](几乎是史上最全最实用的Android性能全面分析与优化方案研究)
