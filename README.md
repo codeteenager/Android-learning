@@ -23,6 +23,8 @@
 
 [Android WebView：这是一份全面 & 详细的WebView学习指南](https://juejin.im/entry/5ad7ecd8f265da504910176c?utm_source=gold_browser_extension)
 
+[深入理解Android wifi NFC等](https://www.kancloud.cn/alex_wsc/android-wifi-nfc-gps/413031)
+
 
 ## Android 开发中的日常积累
 
