@@ -25,6 +25,8 @@
 
 [深入理解Android wifi NFC等](https://www.kancloud.cn/alex_wsc/android-wifi-nfc-gps/413031)
 
+[看雪论坛](https://bbs.pediy.com/)
+
 
 ## Android 开发中的日常积累
 
